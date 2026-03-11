@@ -1,0 +1,7 @@
+{
+  "name": "AI Study Coach",
+  "description": "A personalized AI study coach that helps students create study plans, understand topics, stay motivated, and track their progress.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
